@@ -2,7 +2,7 @@
   <a href="https://www.kshitijyadav.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=3AB4F2&center=true&vCenter=true&repeat=false&width=435&lines=Kshitij+Yadav" alt="Typing SVG" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=3AB4F2&repeat=true&width=600&height=45&vCenter=true&size=24&lines=GGenAI+Strategist+%7C+Product+Analytics+Leader;Building+Scalable+AI+Systems;Mentoring+High-Impact+Analytics+Teams;Transforming+Enterprise+AI+Adoption;Always+Exploring%2C+Always+Learning" alt="Typing SVG" />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats-omega-liard.vercel.app?user=kshitijyad&theme=highcontrast)](https://git.io/streak-stats)
+
 **`AI and Product Analytics Leader (GenAI | Data Science | Scalable AI Systems)`**
 
 I'm Kshitij Yadav, a data-driven innovator specializing in enterprise GenAI strategy, product analytics, and predictive modeling. With leadership roles at Moody's Analytics and Wayfair, I've delivered high-impact platforms and mentored teams that shape the future of AI in business. From driving experimentation engines to deploying GenAI assistants, I work at the intersection of data, technology, and strategy.
