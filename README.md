@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.kshitijyadav.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=3AB4F2&center=true&vCenter=true&repeat=false&width=435&lines=Kshitij+Yadav" alt="Typing SVG" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=3AB4F2&repeat=true&width=600&height=45&vCenter=true&size=24&lines=GenAI+Strategist+%7C+Product+Analytics+Leader;Building+Scalable+AI+Systems;Mentoring+High-Impact+Analytics+Teams;Transforming+Enterprise+AI+Adoption;Always+Exploring%2C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=3AB4F2&repeat=true&width=600&height=45&vCenter=true&size=24&lines=GGenAI+Strategist+%7C+Product+Analytics+Leader;Building+Scalable+AI+Systems;Mentoring+High-Impact+Analytics+Teams;Transforming+Enterprise+AI+Adoption;Always+Exploring%2C+Always+Learning" alt="Typing SVG" />
 </p>
 
 **`AI and Product Analytics Leader (GenAI | Data Science | Scalable AI Systems)`**
