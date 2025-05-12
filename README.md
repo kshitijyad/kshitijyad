@@ -5,21 +5,22 @@
 
 **`AI and Product Analytics Leader (GenAI | Data Science | Scalable AI Systems)`**
 
-I'm Kshitij Yadav, a data-driven innovator specializing in enterprise GenAI strategy, product analytics, and predictive modeling. With leadership roles at Moody’s Analytics and Wayfair, I’ve delivered high-impact platforms and mentored teams that shape the future of AI in business. From driving experimentation engines to deploying GenAI assistants, I work at the intersection of data, technology, and strategy.
+I'm Kshitij Yadav, a data-driven innovator specializing in enterprise GenAI strategy, product analytics, and predictive modeling. With leadership roles at Moody's Analytics and Wayfair, I've delivered high-impact platforms and mentored teams that shape the future of AI in business. From driving experimentation engines to deploying GenAI assistants, I work at the intersection of data, technology, and strategy.
 
+<!--
 <p align="center">
   <a href="https://www.kshitijyadav.com/" target="_blank"><img src="https://img.shields.io/badge/Website-3AB4F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/kshitij-yadav-ai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kshitij.yadav.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/kshitijyad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kshitijyad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <details open>
   <summary><h2>📊 GitHub Stats & Activity</h2></summary>
-    <a href="https://github.com/kshitijyadav-ai"><img src="https://github-readme-stats.vercel.app/api/?username=kshitijyadav-ai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3AB4F2&icon_color=F8D866" alt="Kshitij's GitHub stats" height="192px"/></a>
-    <a href="https://github.com/kshitijyadav-ai" id="topLang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijyadav-ai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3AB4F2&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kshitij's top languages" height="192px"/></a>
+    <a href="https://github.com/kshitijyad"><img src="https://github-readme-stats.vercel.app/api/?username=kshitijyadav-ai&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=3AB4F2&icon_color=F8D866" alt="Kshitij's GitHub stats" height="192px"/></a>
+    <a href="https://github.com/kshitijyad" id="topLang"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijyadav-ai&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=3AB4F2&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" alt="Kshitij's top languages" height="192px"/></a>
     </br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    <a href="https://github.com/kshitijyadav-ai/github-readme-activity-graph"><img alt="Kshitij's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kshitijyadav-ai&bg_color=1F222E&color=F8D866&line=3AB4F2&point=FFFFFF&hide_border=true" /></a>
+    <a href="https://github.com/kshitijyad/github-readme-activity-graph"><img alt="Kshitij's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kshitijyadav-ai&bg_color=1F222E&color=F8D866&line=3AB4F2&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <details open>
@@ -39,8 +40,8 @@ I'm Kshitij Yadav, a data-driven innovator specializing in enterprise GenAI stra
 <details open>
   <summary><h2>📘 Featured Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/kshitijyadav-ai/vybewrite"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijyadav-ai&repo=vybewrite&theme=react&bg_color=1F222E&title_color=3AB4F2&hide_border=true&icon_color=F8D866&show_icons=false" alt="VybeWrite" /></a>
-    <a href="https://github.com/kshitijyadav-ai/genai-score"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijyadav-ai&repo=genai-score&theme=react&bg_color=1F222E&title_color=3AB4F2&hide_border=true&icon_color=F8D866&show_icons=false" alt="GenAI Score" /></a>
+    <a href="https://github.com/kshitijyad/vybewrite"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijyadav-ai&repo=vybewrite&theme=react&bg_color=1F222E&title_color=3AB4F2&hide_border=true&icon_color=F8D866&show_icons=false" alt="VybeWrite" /></a>
+    <a href="https://github.com/kshitijyad/genai-score"><img width="278" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kshitijyadav-ai&repo=genai-score&theme=react&bg_color=1F222E&title_color=3AB4F2&hide_border=true&icon_color=F8D866&show_icons=false" alt="GenAI Score" /></a>
   </p>
 </details>
 
@@ -52,4 +53,4 @@ I'm Kshitij Yadav, a data-driven innovator specializing in enterprise GenAI stra
     <a href="https://www.kshitijyadav.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20AI%20Site-KshitijYadav.com-6E56CF?style=for-the-badge&logo=react&logoColor=white" alt="Personal Website"></a>
   </p>
 </details>
-
+-->
